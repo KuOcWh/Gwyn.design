@@ -1,0 +1,12 @@
+#giveUsATopGap{
+    min-height: 500px;
+}
+
+
+.subCol1, .subCol2{
+    min-height: 250px;
+}
+
+.footer{
+    min-height: 300px;
+}
