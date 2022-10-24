@@ -27,41 +27,31 @@
 }
 
 .firstColImg, .secondColImg, .thirdColImg{
-    max-height: 300px;
-    max-width: 300px;
-}
-
-.firstColImg,.secondColImg:hover,.thirdColImg:hover{
-    max-width: 500px;
-    max-height: 500px;
+    max-height: 400px;
+    max-width: 400px;
 }
 
 
 
-.imgCarousel1,.imgCarousel2,.imgCarousel3,.imgCarousel4{
-    max-height: 900px;
-    
+.carouselImg1,.carouselImg2,.carouselImg3,.carouselImg4{
+max-height: 600px;
+max-width: 600px;
+
 }
 
-.imgCarousel1{
-    position: relative;
-    left: 300px;
-}
-
-
-.imgCarousel2{
+.carouselImg1,.carouselImg2,.carouselImg3,.carouselImg4{
     position: relative;
     left: 400px;
 }
 
-.imgCarousel3{
-   position: relative;
-    left: 350px;
-}
 
-.imgCarousel4{
-    position: relative;
-    left: 200px;
+
+
+
+
+.carousel{
+    margin-top:50px;
+    margin-bottom: 50px;
 }
 
 
@@ -69,4 +59,5 @@
 .bottomCol1,.bottomCol2,.bottomCol3,.bottomCol4,.bottomCol5,.bottomCol6{
     max-height: 300px;
 }
+
 
